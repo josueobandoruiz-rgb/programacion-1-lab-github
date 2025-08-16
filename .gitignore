@@ -1,0 +1,19 @@
+*.exe# Archivos de la compilación
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.out
+
+# Archivo ejecutable del proyecto
+Main
+
+# Archivos de log
+*.log
+
+# Archivos de configuración de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*~
