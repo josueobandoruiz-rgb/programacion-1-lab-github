@@ -5,6 +5,8 @@
 *.dll
 *.so
 *.out
+*.csproj
+*.sln
 
 # Archivo ejecutable del proyecto
 Main
