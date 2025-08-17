@@ -30,7 +30,7 @@ I'm a Systems Engineering student passionate about technology, web development, 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=josueobandoruiz-rgb)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Engineer545&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josueobandoruiz-rgb&show_icons=true&theme=radical)
 
 ---
 
